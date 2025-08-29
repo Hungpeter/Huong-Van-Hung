@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [BOT_Discord](https://github.com/Hungpeter/BOT_Discord)
 
-- 👯 I’m looking to collaborate on ****Open-source DevOps / Monitoring Tools (Grafana, Prometheus, VerneMQ, MQTT, .NET)****
+- 👯 I’m looking to collaborate on ****Open-source DevOps / Monitoring Tools (Grafana, Prometheus)****
 
 - 🤝 I’m looking for help with ****Scaling distributed systems, optimizing server performance****
 
